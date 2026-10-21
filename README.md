@@ -23,6 +23,6 @@ Open the served site in your own browser. To view a downloaded copy, extract the
 
 ## Design direction
 
-Restrained navy, steel gray, white backgrounds, clear technical hierarchy, consistent page navigation, and a prominent quote path. The homepage follows: hero, capabilities, trust indicators, industries/platforms, equipment, quality, quote CTA. No reveal animations or dependency on JavaScript for content visibility.
+Black, white, and neutral gray with small red accents on the brand divider, active-navigation underline, and keyboard focus, plus clear technical hierarchy, consistent page navigation, and a prominent quote path. The homepage follows: hero, capabilities, trust indicators, industries/platforms, equipment, quality, quote CTA. No reveal animations or dependency on JavaScript for content visibility.
 
 The requested Sentry reference could not be inspected because access from the development environment was denied (HTTP/proxy 403). The redesign applies the user's stated industrial design principles; no Sentry branding, copy, photography, or layouts were used.
