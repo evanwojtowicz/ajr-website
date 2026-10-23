@@ -22,6 +22,8 @@ Photo links open an accessible modal viewer with a visible Close button, Escape 
 
 Content was checked against the original AJR pages supplied as screenshots and then retrieved directly when domain access became available. See [content sources](docs/content-sources.md).
 
+All original Facts information is represented across About, Equipment, Capabilities, and Quality. The [Facts coverage map](docs/facts-coverage.md) records each detail and its page location, including customer-system update frequencies, file support, complete-part delivery, and long-term agreements. Web-based quoting is retained as a descriptive company-system capability without adding a quote form or prompt.
+
 - Equipment comparisons contain the full source inventory: 20 rows representing 28 units. Matching VU65A configurations are grouped; different sizes remain separate. Dimensions retain the source label **Machine size** and inch units. They are not relabeled as axis travel or guaranteed usable part capacity.
 - Processing equipment and Bridgeport mills have no source dimensions; the page explicitly requests confirmation. The source’s pressure rating of **10,000 LBS** remains unresolved and is not converted to PSI.
 - Company-listed quality-system references and qualifications are presented without inventing certificate numbers, approval scope, or a CMMC certification. Current documentation can be confirmed directly with AJR.
@@ -42,6 +44,6 @@ The Sentry reference was initially inaccessible; the redesign applies the user�
 
 ## News and certification imagery
 
-The ten supplied News photographs are matched to their five dated stories, with separate four-slide Makino F9 and two-slide DMU 50 galleries. Controls do not autoplay, announce the count, and work by keyboard; all slides remain visible without JavaScript. The installed F9 is also the Home hero, and About uses its setup image. The supplied DNV mark is included on Quality. Every visible photo placeholder has been replaced using supplied imagery. See [News photo inventory](docs/news-photos.md).
+The ten supplied News photographs are matched to their five dated stories, with separate four-slide Makino F9 and two-slide DMU 50 galleries. Controls do not autoplay, announce the count, and work by keyboard; all slides remain visible without JavaScript. The installed F9 is also the Home hero, and About uses its setup image. Quality displays a transparent PNG of the supplied DNV mark, created by removing its white background at the user’s request; the original JPG is retained. Every visible photo placeholder has been replaced using supplied imagery. See [News photo inventory](docs/news-photos.md).
 
 The separate glass trophy inscribed **2021**, supplied in `missing award.zip`, appears before its recognition banner in the 2021 story as two static images. The glass trophy marked **2024** stays with the RTX story. All photographs shown in the supplied original-page references are now accounted for.

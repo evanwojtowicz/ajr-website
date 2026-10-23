@@ -1,8 +1,8 @@
 # Supplied News photographs and certification mark
 
-Source: user-provided `news photos.zip` and `missing award.zip`. The ten News images and one certification mark are copied byte-for-byte, preserving JPEG and PNG formats. No cropping, retouching, generation, resizing, or recompression is applied to image files. Website paths are normalized; slide captions retain the source wording.
+Source: user-provided `news photos.zip` and `missing award.zip`. The ten News images and original certification JPG are preserved byte-for-byte. Website paths are normalized; slide captions retain the source wording. At the user’s request, a separate transparent PNG was made from the DNV mark by removing its white background; that derivative is displayed on Quality.
 
-| Uploaded filename | Website asset | Story / placement | Caption | Pixels |
+| Uploaded filename | Imported asset | Story / placement | Caption | Pixels |
 | --- | --- | --- | --- | --- |
 | `news(ratheon premier award).jpg` | `assets/images/news/rtx-premier-award-2024.jpg` | recognition-2024 | RTX Premier Award · 2024 performance | 1200 × 1600 |
 | `news(2021 award).png` | `assets/images/news/raytheon-premier-award-2021-trophy.png` | recognition-2021 | Raytheon Technologies Premier Award · 2021 performance | 1087 × 1446 |
@@ -16,7 +16,9 @@ Source: user-provided `news photos.zip` and `missing award.zip`. The ten News im
 | `news(bottom pic, supplier gold status trophies).jpg` | `assets/images/news/supplier-gold-awards.jpg` | supplier-gold-2017 | Supplier Gold awards · May 2017 award at left | 996 × 746 |
 | `certification_logo.jpg` | `assets/images/quality/dnv-certification-mark.jpg` | quality | DNV quality system certification | 190 × 189 |
 
-The four Makino F9 slides and two DMU 50 slides stay in their respective historical articles, in uploaded numeric order. Previous/Next controls are manual, announce the slide count, and retain keyboard focus. All slide images remain visible when JavaScript is disabled. News photographs open at full size. The installed F9 photograph also appears in the Home hero; the setup photograph replaces the About placeholder. The original DNV mark appears beside the quality-system references on Quality, without changing the certification text or inventing certificate details.
+The four Makino F9 slides and two DMU 50 slides stay in their respective historical articles, in uploaded numeric order. Previous/Next controls are manual, announce the slide count, and retain keyboard focus. All slide images remain visible when JavaScript is disabled. News photographs open in the dismissible photo viewer. The installed F9 photograph also appears in the Home hero; the setup photograph replaces the About placeholder. The DNV mark appears beside the quality-system references on Quality, without adding certificate details.
+
+The displayed transparent derivative is `assets/images/quality/dnv-certification-mark.png` (1254 × 1254 RGBA). Its alpha channel and transparent corners were checked, and the lettering was visually compared with the original. The source JPG in the inventory remains unchanged.
 
 The JPG named `news(ratheon premier award).jpg` is explicitly marked **2024** and belongs to the RTX story. The banner is explicitly marked **2021** and belongs to the Raytheon Technologies story. The separate **2021 glass trophy** was subsequently supplied in `missing award.zip` as `news(2021 award).png`; its inscription confirms 2021 and achievement in Collaboration. It appears before the banner in the same story as two static images, matching the original page’s grouping. All referenced News photographs are now supplied. No missing-image placeholder is displayed to visitors.
 
