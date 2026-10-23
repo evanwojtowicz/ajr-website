@@ -36,6 +36,8 @@ Content was checked against the original AJR pages supplied as screenshots and t
 
 Black, white, and neutral gray, with small red accents. Consistent navigation, restrained typography, clear technical information, and direct company contact. No reveal animations or dependency on JavaScript for content visibility.
 
+Use “Precision Machinists and Jig Borers” for the brand descriptor and tagline. Section and page headings omit ending periods; founding-year facts remain in the company information.
+
 The Sentry reference was initially inaccessible; the redesign applies the user’s stated industrial design principles without reusing Sentry branding, copy, or images.
 
 ## News and certification imagery
