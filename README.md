@@ -27,7 +27,8 @@ Content was checked against the original AJR pages supplied as screenshots and t
 - Careers reflects the source’s **no current openings** status and uses the actual application email link. Shift times are examples, not office hours.
 - All 22 vendor clauses preserve the live source’s wording, including apparent source typos. Changes to policy wording should be supplied separately by AJR; do not silently revise contractual terms while styling the page.
 - Named platforms/programs and public quote forms are intentionally excluded. Contact is direct phone/email/address. No online submission or file-upload flow is present.
-- All 12 user-supplied part photographs are included unchanged. The complete captioned gallery is on `about.html#parts`; Home and Capabilities use selected examples. Images include alternative text and dimensions, use lazy loading below the hero, and open at full size from the gallery. See [photo inventory](docs/part-photos.md). Equipment, facility, inspection, and News photo placements remain pending their original files. No stock or generated imagery is represented as AJR’s work.
+- All 12 user-supplied part photographs are included unchanged. The complete captioned gallery is on `about.html#parts`; Home and Capabilities use selected examples. See [part photo inventory](docs/part-photos.md).
+- All 11 supplied equipment photographs are included unchanged in their original JPEG, PNG, and WebP formats. The complete gallery is on `equipment.html#equipment-photos`; Home features the Makino D800Z and Quality uses the Mitutoyo Crysta Apex image. Images include alternative text and dimensions, use lazy loading below the hero, and open at full size from the galleries. See [equipment photo inventory](docs/equipment-photos.md). Separate facility, News, and downloadable certification-logo files remain pending. No generated imagery is represented as AJR’s work.
 
 ## Design direction
 

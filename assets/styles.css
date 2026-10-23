@@ -168,3 +168,20 @@
   .part-gallery { grid-template-columns:minmax(0,1fr); }
   .hero-photo figcaption a { display:block; margin-left:0; margin-top:6px; }
 }
+/* Supplied equipment photographs retain their complete frames and original colors. */
+.equipment-photography { border-top:1px solid var(--line); scroll-margin-top:24px; }
+.equipment-gallery { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:32px 24px; }
+.equipment-gallery figure,.equipment-feature { min-width:0; }
+.equipment-photo-link { display:block; background:white; }
+.equipment-photo-link:hover { outline:1px solid var(--line); outline-offset:0; }
+.equipment-gallery img,.equipment-feature img { display:block; width:100%; height:auto; aspect-ratio:4/3; object-fit:contain; background:white; }
+.equipment-gallery figcaption { margin-top:14px; font-size:.83rem; color:var(--muted); line-height:1.6; }
+.equipment-feature { border:1px solid var(--line); background:white; align-self:start; }
+.equipment-feature img { max-height:420px; }
+.equipment-feature figcaption { padding:14px 18px; border-top:1px solid var(--line); font-size:.8rem; color:var(--muted); }
+@media(max-width:760px) {
+  .equipment-gallery { grid-template-columns:repeat(2,minmax(0,1fr)); gap:28px 20px; }
+}
+@media(max-width:480px) {
+  .equipment-gallery { grid-template-columns:minmax(0,1fr); }
+}
