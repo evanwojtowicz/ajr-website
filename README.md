@@ -16,6 +16,8 @@ The main pages are Home, Capabilities, Equipment, Quality, Industries, About, an
 
 Shared design tokens and responsive components live in `assets/styles.css`. Navigation, manual photo-gallery controls, and the vendor print action live in `assets/site.js`.
 
+Photo links open an accessible modal viewer with a visible Close button, Escape dismissal, and outside-click dismissal. Closing returns keyboard focus and the page position to the selected photograph. Modified clicks retain normal browser behavior; direct image links remain available without JavaScript or modal-dialog support.
+
 ## Content and source handoff
 
 Content was checked against the original AJR pages supplied as screenshots and then retrieved directly when domain access became available. See [content sources](docs/content-sources.md).
