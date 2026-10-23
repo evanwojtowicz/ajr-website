@@ -187,6 +187,7 @@
 }
 /* News images stay with their dated stories; gallery frames show the complete photograph. */
 .news-media { min-width:0; }
+.news-media > .news-figure + .news-figure { margin-top:24px; }
 .news-photo-link { display:block; }
 .news-figure img { display:block; width:100%; height:auto; max-height:560px; object-fit:contain; background:var(--surface); }
 .news-figure figcaption { padding-top:14px; font-size:.8rem; line-height:1.6; color:var(--muted); }

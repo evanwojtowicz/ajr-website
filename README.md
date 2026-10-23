@@ -38,6 +38,6 @@ The Sentry reference was initially inaccessible; the redesign applies the userâ€
 
 ## News and certification imagery
 
-The nine supplied News photographs are matched to their five dated stories, with separate four-slide Makino F9 and two-slide DMU 50 galleries. Controls do not autoplay, announce the count, and work by keyboard; all slides remain visible without JavaScript. The installed F9 is also the Home hero, and About uses its setup image. The supplied DNV mark is included on Quality. Every visible photo placeholder has been replaced using supplied imagery. See [News photo inventory](docs/news-photos.md).
+The ten supplied News photographs are matched to their five dated stories, with separate four-slide Makino F9 and two-slide DMU 50 galleries. Controls do not autoplay, announce the count, and work by keyboard; all slides remain visible without JavaScript. The installed F9 is also the Home hero, and About uses its setup image. The supplied DNV mark is included on Quality. Every visible photo placeholder has been replaced using supplied imagery. See [News photo inventory](docs/news-photos.md).
 
-One original screenshot photo remains absent from the supplied files: the separate glass trophy inscribed **2021**. The 2021 story uses its supplied banner; the glass trophy marked **2024** stays with the RTX story.
+The separate glass trophy inscribed **2021**, supplied in `missing award.zip`, appears before its recognition banner in the 2021 story as two static images. The glass trophy marked **2024** stays with the RTX story. All photographs shown in the supplied original-page references are now accounted for.
