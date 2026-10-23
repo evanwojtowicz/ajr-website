@@ -1,6 +1,6 @@
 # AJR Industries website
 
-A static, seven-page company website. No package installation or build is required.
+A static company website with ten pages and shared CSS/JavaScript. No package installation or build is required.
 
 ## Local development
 
@@ -10,21 +10,27 @@ From this directory run:
 python3 -m http.server 8000
 ```
 
-Open the served site in your own browser. To view a downloaded copy, extract the complete website folder, keep the `assets` folder beside the HTML files, and open `index.html`. Downloading only the HTML file will omit its styling and scripts. Refresh the browser after pulling updated files. Each HTML page can also be opened directly on your computer. Shared design tokens, typography, spacing, grids, and components live in `assets/styles.css`; navigation interactions live in `assets/site.js`.
+Open the served site in your browser. For a downloaded copy, extract the complete website folder, keep `assets` beside the HTML files, and open `index.html`. Downloading just the HTML file omits styling and scripts. Refresh your browser after updating files.
 
-## Content and launch handoff
+The main pages are Home, Capabilities, Equipment, Quality, Industries, About, and Contact. Company resources—News, Careers, and Vendor Terms—are linked from the utility navigation and footer. Original History & Parts and Facts material is organized into About, Capabilities, Equipment, Quality, and Industries.
 
-- Replace clearly labeled photography figures with approved, real AJR images. Use descriptive alt text, explicit image dimensions, responsive sizing, and lazy loading below the hero. No stock or generated image is represented as AJR's facility or work.
-- Existing equipment, company details, and capability descriptions have been retained from the original project, not independently verified. Confirm them before publication.
-- Pressure testing was originally described as “10,000 lb.” Its pressure units and operating rating require company confirmation; the capability page marks this ambiguity instead of guessing a conversion.
-- Existing ITAR, NIST 800-171, Certified Quality Clinic, and Flight Safety statements are retained on the Quality page with documentation/status placeholders. No new certifications or customer relationships have been added.
-- Named platform/program listings are intentionally excluded. The Industries page covers general sectors only.
-- Supply company-approved history, team information, credential documents, technical capability data, and any approved project examples.
-- The equipment page separates working dimensions from configuration details. Only the approximate Makino D800Z work envelope is present in the project; other machine dimensions, CMM measuring ranges, and processing capacities remain explicitly pending. Source page supplied by the user: https://www.ajrindustries.com/equipment.html (blocked by the development environment’s network policy). Carry over AJR’s actual published dimensions when available; do not substitute general manufacturer specifications or treat axis travel as guaranteed maximum part size.
-- Contact is intentionally limited to the company phone number and address. There is no quote form, inquiry download, online submission endpoint, or file-upload flow; application-specific discussions go directly to AJR.
+Shared design tokens and responsive components live in `assets/styles.css`. Navigation, manual photo-gallery controls, and the vendor print action live in `assets/site.js`.
+
+## Content and source handoff
+
+Content was checked against the original AJR pages supplied as screenshots and then retrieved directly when domain access became available. See [content sources](docs/content-sources.md).
+
+- Equipment comparisons contain the full source inventory: 20 rows representing 28 units. Matching VU65A configurations are grouped; different sizes remain separate. Dimensions retain the source label **Machine size** and inch units. They are not relabeled as axis travel or guaranteed usable part capacity.
+- Processing equipment and Bridgeport mills have no source dimensions; the page explicitly requests confirmation. The source’s pressure rating of **10,000 LBS** remains unresolved and is not converted to PSI.
+- Company-listed quality-system references and qualifications are presented without inventing certificate numbers, approval scope, or a CMMC certification. Current documentation can be confirmed directly with AJR.
+- News items retain their historical years. Anniversary text refers to 2025, award performance to 2024/2021, and installation news to 2021/2019. Image galleries belong to their respective stories and do not autoplay.
+- Careers reflects the source’s **no current openings** status and uses the actual application email link. Shift times are examples, not office hours.
+- All 22 vendor clauses preserve the live source’s wording, including apparent source typos. Changes to policy wording should be supplied separately by AJR; do not silently revise contractual terms while styling the page.
+- Named platforms/programs and public quote forms are intentionally excluded. Contact is direct phone/email/address. No online submission or file-upload flow is present.
+- Clearly labeled photo placements remain until original image files are supplied. No stock or generated imagery is represented as AJR’s facility, parts, or work. Add descriptive alternative text, image dimensions, responsive sizing, and lazy loading below the hero when integrating images.
 
 ## Design direction
 
-Black, white, and neutral gray with small red accents on the brand divider, active-navigation underline, and keyboard focus, plus clear technical hierarchy, consistent page navigation, and straightforward company contact information. The homepage follows: hero, capabilities, trust indicators, industries, equipment, quality, company contact. No reveal animations or dependency on JavaScript for content visibility.
+Black, white, and neutral gray, with small red accents. Consistent navigation, restrained typography, clear technical information, and direct company contact. No reveal animations or dependency on JavaScript for content visibility.
 
-The requested Sentry reference could not be inspected because access from the development environment was denied (HTTP/proxy 403). The redesign applies the user's stated industrial design principles; no Sentry branding, copy, photography, or layouts were used.
+The Sentry reference was initially inaccessible; the redesign applies the user’s stated industrial design principles without reusing Sentry branding, copy, or images.
