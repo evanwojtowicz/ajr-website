@@ -20,4 +20,4 @@ The complete gallery is on `equipment.html#equipment-photos`. Home features the 
 
 The Crysta Apex photograph is not assigned to any one of the three specific CMM models in the equipment inventory. The gallery’s “6N” jig-bore caption and “Harding” spelling remain as supplied; the specifications separately retain the source inventory’s “6CN” and “Hardinge” labels. “10,000 lbs” is reproduced in the historical caption without converting it to a pressure rating in PSI. The source years 2021 and 2022 describe the original captions.
 
-These equipment images do not replace the separate News installation slides or award photographs, which remain pending. The inline DNV logo is visually received; an original downloadable logo file remains pending.
+The separate News installation slides, award images, and DNV mark were subsequently supplied and are documented in [News photo inventory](news-photos.md). Equipment gallery images remain distinct from the installation slides.

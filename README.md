@@ -27,11 +27,17 @@ Content was checked against the original AJR pages supplied as screenshots and t
 - Careers reflects the source’s **no current openings** status and uses the actual application email link. Shift times are examples, not office hours.
 - All 22 vendor clauses preserve the live source’s wording, including apparent source typos. Changes to policy wording should be supplied separately by AJR; do not silently revise contractual terms while styling the page.
 - Named platforms/programs and public quote forms are intentionally excluded. Contact is direct phone/email/address. No online submission or file-upload flow is present.
-- All 12 user-supplied part photographs are included unchanged. The complete captioned gallery is on `about.html#parts`; Home and Capabilities use selected examples. See [part photo inventory](docs/part-photos.md).
-- All 11 supplied equipment photographs are included unchanged in their original JPEG, PNG, and WebP formats. The complete gallery is on `equipment.html#equipment-photos`; Home features the Makino D800Z and Quality uses the Mitutoyo Crysta Apex image. Images include alternative text and dimensions, use lazy loading below the hero, and open at full size from the galleries. See [equipment photo inventory](docs/equipment-photos.md). Separate facility, News, and downloadable certification-logo files remain pending. No generated imagery is represented as AJR’s work.
+- All 12 user-supplied part photographs are included unchanged. The complete captioned gallery is on `about.html#parts`; Capabilities and Industries use selected examples. See [part photo inventory](docs/part-photos.md).
+- All 11 supplied equipment photographs are included unchanged in their original JPEG, PNG, and WebP formats. The complete gallery is on `equipment.html#equipment-photos`; Home features the Makino D800Z and Quality uses the Mitutoyo Crysta Apex image. Images include alternative text and dimensions, use lazy loading below the hero, and open at full size from the galleries. See [equipment photo inventory](docs/equipment-photos.md). No generated imagery is represented as AJR’s work.
 
 ## Design direction
 
 Black, white, and neutral gray, with small red accents. Consistent navigation, restrained typography, clear technical information, and direct company contact. No reveal animations or dependency on JavaScript for content visibility.
 
 The Sentry reference was initially inaccessible; the redesign applies the user’s stated industrial design principles without reusing Sentry branding, copy, or images.
+
+## News and certification imagery
+
+The nine supplied News photographs are matched to their five dated stories, with separate four-slide Makino F9 and two-slide DMU 50 galleries. Controls do not autoplay, announce the count, and work by keyboard; all slides remain visible without JavaScript. The installed F9 is also the Home hero, and About uses its setup image. The supplied DNV mark is included on Quality. Every visible photo placeholder has been replaced using supplied imagery. See [News photo inventory](docs/news-photos.md).
+
+One original screenshot photo remains absent from the supplied files: the separate glass trophy inscribed **2021**. The 2021 story uses its supplied banner; the glass trophy marked **2024** stays with the RTX story.

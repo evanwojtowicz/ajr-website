@@ -17,4 +17,4 @@ Source: user-provided `part photos.zip`. All 12 JPEGs are copied byte-for-byte w
 | 11 | `part11(aluminum forged plate).jpg` | `assets/images/parts/part-11-aluminum-forged-plate.jpg` | Aluminum Forged Plate | 940 × 680 |
 | 12 | `part12(aluminum plate stock).jpg` | `assets/images/parts/part-12-aluminum-plate-stock.jpg` | Aluminum plate stock | 873 × 613 |
 
-The complete gallery is on `about.html#parts`. Home and Capabilities use selected examples from the same supplied files. Equipment and inspection imagery is recorded separately in [equipment photo inventory](equipment-photos.md). Facility and News photographs remain pending; a part photograph is not relabeled as a machine or facility photo.
+The complete gallery is on `about.html#parts`. Capabilities and Industries use selected examples from the same supplied files. Equipment and inspection imagery is recorded separately in [equipment photo inventory](equipment-photos.md). News installation and award photographs are recorded in [News photo inventory](news-photos.md); a part photograph is not relabeled as a machine, facility, or scientific-specific photo.

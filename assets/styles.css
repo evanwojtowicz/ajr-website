@@ -185,3 +185,16 @@
 @media(max-width:480px) {
   .equipment-gallery { grid-template-columns:minmax(0,1fr); }
 }
+/* News images stay with their dated stories; gallery frames show the complete photograph. */
+.news-media { min-width:0; }
+.news-photo-link { display:block; }
+.news-figure img { display:block; width:100%; height:auto; max-height:560px; object-fit:contain; background:var(--surface); }
+.news-figure figcaption { padding-top:14px; font-size:.8rem; line-height:1.6; color:var(--muted); }
+.photo-gallery img { aspect-ratio:4/3; object-fit:contain; background:var(--surface); }
+.quality-credentials { display:grid; grid-template-columns:minmax(0,1fr) 190px; gap:40px; align-items:center; }
+.certification-mark { width:190px; max-width:100%; }
+.certification-mark a,.certification-mark img { display:block; }
+.certification-mark img { width:100%; height:auto; }
+@media(max-width:760px) {
+  .quality-credentials { grid-template-columns:minmax(0,1fr); gap:24px; }
+}
