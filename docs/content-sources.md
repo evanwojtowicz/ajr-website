@@ -24,6 +24,6 @@ The original Platforms Supported page is excluded by user request. No aircraft o
 - Supplier requirements mentioning NADCAP are not evidence of an AJR NADCAP certification. CMMC is described as ongoing work, not a completed certification.
 - News dates are historical. The Makino F9 caption “Fully operational 5/24” does not explicitly specify a year and is not converted into May 2024.
 - Vendor terms were compared clause-by-clause to the live source. Apparent awkward wording in clauses 20 and 22 is retained, and supplier record retention remains ten years / forty years for Flight Safety Parts, as stated.
-- Original photos are hosted separately from the AJR HTML. At this stage those image requests were blocked by the network policy; original files are being supplied by the user. Screenshot references do not imply original-resolution assets have been imported.
+- The 12 History & Parts photographs were supplied by the user in `part photos.zip` and imported byte-for-byte. Their uploaded filenames, original captions, dimensions, and website paths are recorded in [photo inventory](part-photos.md). Equipment, facility, inspection, and News image files remain pending; their source host is separate from the AJR HTML and is still blocked by this environment’s network policy.
 
 Company source statements are not independent verification of current staffing, certification validity, or approval scope. The redesign avoids inventing dates, customers, specs, contact destinations, or credentials.

@@ -27,7 +27,7 @@ Content was checked against the original AJR pages supplied as screenshots and t
 - Careers reflects the source’s **no current openings** status and uses the actual application email link. Shift times are examples, not office hours.
 - All 22 vendor clauses preserve the live source’s wording, including apparent source typos. Changes to policy wording should be supplied separately by AJR; do not silently revise contractual terms while styling the page.
 - Named platforms/programs and public quote forms are intentionally excluded. Contact is direct phone/email/address. No online submission or file-upload flow is present.
-- Clearly labeled photo placements remain until original image files are supplied. No stock or generated imagery is represented as AJR’s facility, parts, or work. Add descriptive alternative text, image dimensions, responsive sizing, and lazy loading below the hero when integrating images.
+- All 12 user-supplied part photographs are included unchanged. The complete captioned gallery is on `about.html#parts`; Home and Capabilities use selected examples. Images include alternative text and dimensions, use lazy loading below the hero, and open at full size from the gallery. See [photo inventory](docs/part-photos.md). Equipment, facility, inspection, and News photo placements remain pending their original files. No stock or generated imagery is represented as AJR’s work.
 
 ## Design direction
 

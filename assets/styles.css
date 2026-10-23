@@ -154,3 +154,17 @@
 .document-nav summary { cursor:pointer; font-size:.83rem; font-weight:700; margin-bottom:16px; }
 .document-nav summary span { float:right; color:var(--muted); font-size:.7rem; font-weight:400; }
 .document-nav details:not([open]) summary { margin-bottom:0; }
+/* Original AJR part photography. Contain each image to keep the complete component visible. */
+.hero-photo { border:1px solid var(--line); background:white; min-width:0; }
+.hero-photo img { display:block; width:100%; height:auto; }
+.hero-photo figcaption { padding:14px 18px; font-size:.75rem; line-height:1.65; color:var(--muted); }
+.hero-photo figcaption a { display:inline-block; margin-left:12px; color:var(--ink); font-weight:700; }
+.part-photo-link { display:block; background:var(--surface); }
+.part-photo-link:hover { outline:1px solid var(--line); outline-offset:0; }
+.part-gallery img { height:auto; }
+.part-gallery figure { min-width:0; }
+#parts { scroll-margin-top:24px; }
+@media(max-width:480px) {
+  .part-gallery { grid-template-columns:minmax(0,1fr); }
+  .hero-photo figcaption a { display:block; margin-left:0; margin-top:6px; }
+}
