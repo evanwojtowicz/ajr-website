@@ -14,6 +14,8 @@ The user supplied screenshots of seven retained original AJR pages. The original
 
 The original Platforms Supported page is excluded by user request. No aircraft or named-platform list is carried into the redesign.
 
+The Edward Simmons quotation in the Quality introduction was supplied by the user as an image and transcribed into accessible text with its attribution.
+
 Every detail from the original Facts page is mapped in the [Facts coverage inventory](facts-coverage.md), including company structure, operating information, computer systems, complete-part responsibility, long-term agreements, and secondary processes. The original "DFX" and "CAD plating" labels are retained. Web-based quoting is described as a company-system capability; the excluded public quote form and prompts remain absent.
 
 ## Source distinctions retained

@@ -215,3 +215,7 @@ html.photo-viewer-open { overflow:hidden; scrollbar-gutter:stable; }
   .photo-viewer { padding:12px; }
   .photo-viewer[open] { gap:12px; }
 }
+.quality-quote { max-width:900px; margin-top:32px; padding-top:28px; border-top:1px solid var(--line); }
+.quality-quote blockquote { margin:0; }
+.quality-quote blockquote p { color:var(--ink); font-size:clamp(1.1rem,2vw,1.45rem); font-weight:700; line-height:1.5; }
+.quality-quote figcaption { margin-top:12px; color:var(--muted); font-size:.82rem; }
