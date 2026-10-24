@@ -7,7 +7,7 @@ Source: the user’s screenshots of [AJR’s original Facts page](https://www.aj
 | Original information | Website placement and coverage |
 | --- | --- |
 | Family-owned corporation; non-union | [About](../about.html): the introduction explicitly identifies a family-owned, non-union corporation. |
-| 44 total employees, including 28 machinists | [Company facts](../about.html#company-facts): separate statistics retain both figures and label them as listed company facts. |
+| 44 total employees, including 28 machinists | [Company facts](../about.html#company-facts): separate statistics retain both figures with the labels “Employees” and “Machinists.” |
 | 22,000 square feet; fully temperature controlled | [About](../about.html): the company introduction states the facility’s size and full temperature control; the statistics repeat its size. |
 | Apprentice training program for machinists | [About](../about.html): “Investing in machining skills” retains the apprentice program. |
 | Two shifts, 22 hours per day, six days per week | [About](../about.html): the training section gives the complete published production schedule. These are production operations, not public office hours. |
@@ -61,4 +61,4 @@ All items below appear in [Secondary operations](../capabilities.html#secondary-
 
 The original groups thermal-fit liners, hardware installation, high- and low-pressure testing, tooling, and fixtures before its “sub-contract” list. The website distinguishes that in-house support from arranged outside processing; it does not describe the finishing and NDT list as performed internally.
 
-This map records coverage of AJR’s source statements, not independent re-verification of staffing, operating schedules, certification validity, contract availability, or approval scope. Staffing and production schedules remain identified as company-listed information. The DNV mark is the supplied certification graphic, not a newly supplied full certificate.
+This map records coverage of AJR’s source statements, not independent re-verification of staffing, operating schedules, certification validity, contract availability, or approval scope. Staffing figures retain the source values; the production schedule remains identified as company-listed information. The DNV mark is the supplied certification graphic, not a newly supplied full certificate.
