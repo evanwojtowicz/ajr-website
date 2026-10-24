@@ -28,7 +28,7 @@ Every detail from the original Facts page is mapped in the [Facts coverage inven
 - Pressure-test text states “10,000 LBS.” It does not establish PSI.
 - Facts clearly gives 22,000 square feet and resolves the equipment page’s malformed “22,0000” entry.
 - Supplier requirements mentioning NADCAP are not evidence of an AJR NADCAP certification. CMMC is described as ongoing work, not a completed certification.
-- News dates are historical. The Makino F9 caption “Fully operational 5/24” does not explicitly specify a year and is not converted into May 2024.
+- News dates are historical. The user clarified the Makino F9 caption’s “5/24” date as May 24, 2021, and the website displays the full confirmed date.
 - Vendor terms were compared clause-by-clause to the live source. Apparent awkward wording in clauses 20 and 22 is retained, and supplier record retention remains ten years / forty years for Flight Safety Parts, as stated.
 - The 12 History & Parts photographs were supplied by the user in `part photos.zip` and imported byte-for-byte. Their uploaded filenames, original captions, dimensions, and website paths are recorded in [part photo inventory](part-photos.md).
 - The 11 equipment photographs were supplied in `machine photos.zip` and imported byte-for-byte in mixed JPEG, PNG, and WebP formats. Their mappings are recorded in [equipment photo inventory](equipment-photos.md). The Crysta Apex image is not assigned to a specific model in the three-CMM inventory. The source image host is separate from the AJR HTML; supplied ZIP files provide the website assets.
