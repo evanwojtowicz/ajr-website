@@ -5,7 +5,7 @@ The user supplied screenshots of seven retained original AJR pages. The original
 | Original source | Content used in the redesign |
 | --- | --- |
 | https://www.ajrindustries.com/index.html | Company name, address, phone, public email; home photo reference |
-| https://www.ajrindustries.com/history.html | 1965 founding, complex machining, materials/part examples, scientific applications, company-listed qualifications |
+| https://www.ajrindustries.com/history.html | 1965 founding, complex machining, materials/part examples, approved-supplier relationships, Argonne National Laboratory / Advanced Photon Source work, scientific applications, Weak-Link manufacture, company-listed qualifications |
 | https://www.ajrindustries.com/equipment.html | Machine inventory, quantities, source-labeled machine sizes, tool changers, processing and programming equipment |
 | https://www.ajrindustries.com/facts.html | Family ownership, 22,000 ft² temperature-controlled facility, 44 listed employees/28 machinists, apprenticeship, operating schedule, quality systems and program support |
 | https://www.ajrindustries.com/news.html | 2024/2021 Premier Awards, 2021 Makino F9 and 2019 DMU 50 expansions, 2017 Supplier Gold story; gallery grouping |
@@ -13,6 +13,8 @@ The user supplied screenshots of seven retained original AJR pages. The original
 | https://www.ajrindustries.com/vendor-terms-and-conditions.html | Quality Assurance Provisions, Revision B; all 22 clauses |
 
 The original Platforms Supported page is excluded by user request. No aircraft or named-platform list is carried into the redesign.
+
+The user requested the original History & Parts approved-supplier list and national-laboratory details on Industries. All eleven company names retain their original source naming; the associated part families, Argonne National Laboratory / Advanced Photon Source work, translation stages, and licensed Weak-Link manufacture are included. These company and scientific-facility references are distinct from the excluded aircraft/platform list.
 
 The Edward Simmons quotation in the Quality introduction was supplied by the user as an image and transcribed into accessible text with its attribution.
 
