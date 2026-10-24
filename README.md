@@ -38,6 +38,8 @@ All original Facts information is represented across About, Equipment, Capabilit
 
 Black, white, and neutral gray, with small red accents. Consistent navigation, restrained typography, clear technical information, and direct company contact. No reveal animations or dependency on JavaScript for content visibility.
 
+The supplied circular AJR logo in `assets/favicon.png` is used only as the browser-tab icon on all pages. The visible header and footer branding remain unchanged; no touch icon or social-preview use is added.
+
 Use “Precision Machinists and Jig Borers” for the brand descriptor and tagline. Section and page headings omit ending periods; founding-year facts remain in the company information.
 
 The Sentry reference was initially inaccessible; the redesign applies the user’s stated industrial design principles without reusing Sentry branding, copy, or images.
