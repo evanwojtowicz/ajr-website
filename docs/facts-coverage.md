@@ -22,7 +22,7 @@ Source: the user’s screenshots of [AJR’s original Facts page](https://www.aj
 | AutoCAD Mechanical Desktop, Edgecam, SolidWorks, Autodesk Inventor | [CAD / CAM](../equipment.html#computer-systems): all source software names are included. Other software already supported by the Equipment source remains separately listed. |
 | IGES / DFX file import | [CAD / CAM](../equipment.html#computer-systems): “IGES / DFX file import” preserves the source’s **DFX** spelling; it is not silently changed to DXF. |
 | EDI capability; solid models | [CAD / CAM](../equipment.html#computer-systems): explicitly lists EDI capability and solid-model support. |
-| AS 9100 Rev D; ISO 9001 | [Quality systems](../quality.html#quality-systems): both references are retained in the introductory text and credential cards. |
+| AS 9100 Rev D; ISO 9001 | [Quality systems](../quality.html#quality-systems): both references are retained in the paragraph written in AJR’s voice, beside the certification mark. |
 | ACE programs, TPM, 5S, lean manufacturing, set-up reduction, Quality Clinic | [Quality systems](../quality.html#quality-systems): the full source list is retained. |
 | DNV quality-system certification graphic, AS/EN/JISQ/KS Q 9100 | [Quality systems](../quality.html#quality-systems): the supplied mark appears beside the quality-system references; its alternative text retains the designation. |
 

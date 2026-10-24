@@ -193,6 +193,7 @@
 .news-figure figcaption { padding-top:14px; font-size:.8rem; line-height:1.6; color:var(--muted); }
 .photo-gallery img { aspect-ratio:4/3; object-fit:contain; background:var(--surface); }
 .quality-credentials { display:grid; grid-template-columns:minmax(0,1fr) 190px; gap:40px; align-items:center; }
+.quality-credentials .section-copy { margin-bottom:0; }
 .certification-mark { width:190px; max-width:100%; }
 .certification-mark a,.certification-mark img { display:block; }
 .certification-mark img { width:100%; height:auto; }
